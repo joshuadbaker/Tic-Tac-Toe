@@ -1,0 +1,10 @@
+h1 {
+	font-family: helvetica;
+	color: #666;
+}
+input {
+  display: inline-block;
+  padding: 20px;
+  width: 30px;
+  font-size: 2em;
+}
