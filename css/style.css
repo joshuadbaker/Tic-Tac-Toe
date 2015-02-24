@@ -2,6 +2,10 @@ h1 {
 	font-family: helvetica;
 	color: #666;
 }
+p {
+	font-family: helvetica;
+	color: #666;
+}
 button {
 	font-family: helvetica;
 	font-size: 1.5em;
@@ -15,4 +19,9 @@ input {
 }
 input.error {
   border: 1px solid red;
+}
+
+h2 {
+	font-family: helvetica;
+	color: #00DD00;
 }
